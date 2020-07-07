@@ -1,5 +1,7 @@
 # JustSaysInMiceBot
 
+<img alt='justsaysinmicebot in glorious action' src='README-justsaysinmicebot.png' width='50%' height='50%'>
+
 A Discord bot that lets you have your own, personal <https://twitter.com/justsaysinmice>. Pretty much nothing to it. Says "IN MICE" when someone says `/(?!)in.*mice/`.
 
 
